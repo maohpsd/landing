@@ -1,0 +1,135 @@
+body
+{
+		margin: 0px;
+		width: 100%;
+		font-family: helvetica;
+		font-size: 14px;
+		color: #444242;
+		line-height: 25px;
+
+}
+
+.banner {
+
+		background-image: url(imagenes/bg.jpeg);
+		background-position: center; 
+		text-align: center;
+		width: 100%;
+		height: 350px;
+
+}
+
+.logo {
+
+		text-align: left;
+		padding: 20px 0px 0px 20px;
+}
+
+.logo img {
+
+	 	width: 200px;
+	 	height: auto;
+
+ }
+
+.texto h1 {
+
+ 		color: #fff;
+ }
+
+.botones button {
+
+	 	border-radius: 5px;
+	 	font-size: 14px;
+	 	margin: 20px;
+	 	width: 10%;
+	 	padding: 10px;
+	 	color: #fff;
+	 	border: none;
+
+ }
+
+.button-green {
+
+		background-color: #51b867;
+}
+
+.button-blue {
+
+		background-color: #2d7cb3;
+}
+
+
+.subtexto {
+
+		width: 50%; 
+		margin: 0 auto;
+		color: #cfcfcf;
+		font-size: 14px;
+		line-height:18px;
+}
+
+.titulo, .información {
+
+		text-align: center;
+		width: 60%;
+		margin: 0 auto;
+		color: #353535;
+		padding-top: 20px;
+		padding-bottom: 20px;
+        
+
+}
+
+.información {
+
+		background-color: #eeeeee;
+		width: 100%;
+        
+
+} 
+
+.gente img {
+
+		width: 30%;
+		margin: 0 auto;
+		display: block;
+		padding-top: 40px;
+
+}
+
+hr {
+
+		margin-top: 0px;
+		margin-bottom: 0px;
+}
+
+.datos-contacto {
+
+		text-align: center;
+}
+
+.contact, .contact-form {
+
+		width: 30%;
+		display: inline-block; 
+		margin: 0 auto;
+		padding-bottom: 20px;
+		padding-top: 20px;
+}
+
+.contact, .contact-form p {
+
+		text-align: left;
+}
+
+.footer {
+
+	background-color: black;
+}
+
+.derechos {
+    
+    padding: 20px;
+    margin-left: 10px;
+}
